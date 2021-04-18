@@ -1,14 +1,14 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
+  title: 'modernify.ca',
+  tagline: 'We help Atlantic Canadian businesses look better online.',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'modernify.ca', // Usually your GitHub org/user name.
+  projectName: 'docusaurus-forestry-starter', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'modernify.ca',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -32,20 +32,33 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'About Us',
           items: [
             {
-              label: 'Style Guide',
+              label: 'Our Mission',
               to: 'docs/',
             },
             {
-              label: 'Second Doc',
+              label: 'Our Team',
               to: 'docs/doc2/',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'What we do?',
+          items: [
+            {
+              label: 'Our Services',
+              to: 'docs/',
+            },
+            {
+              label: 'Service Fees',
+              to: 'docs/doc2/',
+            },
+          ],
+        },
+        {
+          title: 'Useful Resources',
           items: [
             {
               label: 'Stack Overflow',
