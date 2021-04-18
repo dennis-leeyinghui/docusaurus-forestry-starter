@@ -86,16 +86,6 @@ function Home() {
               </div>
             </div>
           </section>
-		  <section className={styles.portfolioImage}>
-            <div className="container">
-              <div className="row">
-                {portfolioImage.map((props, idx) => (
-                  <Feature key={idx} {...props} />
-                ))}
-              </div>
-            </div>
-		</section>
-
 		   )}
 
 	  <div class="container">
