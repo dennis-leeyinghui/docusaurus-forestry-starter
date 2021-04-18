@@ -86,10 +86,7 @@ function Home() {
               </div>
             </div>
           </section>
-
-		 <br>
-
-		 <section className={styles.portfolioImage}>
+		  <section className={styles.portfolioImage}>
             <div className="container">
               <div className="row">
                 {portfolioImage.map((props, idx) => (
