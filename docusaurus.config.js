@@ -6,6 +6,12 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'modernify.ca', // Usually your GitHub org/user name.
   projectName: 'docusaurus-forestry-starter', // Usually your repo name.
+  scripts: [
+    './notflix-slider/script.js',
+  ],
+  stylesheets: [
+    './notflix-slider/base.css',
+  ],
   themeConfig: {
     navbar: {
       title: '',

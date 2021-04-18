@@ -6,9 +6,6 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
 
-import notflix-slider from './notflix-slider/base.css';
-import notflix-script from  './notflix-slider/script.js';
-
 const features = [
   {
     title: <>Simplify Workflows</>,
