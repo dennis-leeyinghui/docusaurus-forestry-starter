@@ -10,7 +10,7 @@ module.exports = {
     navbar: {
       title: '',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Site Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -20,10 +20,14 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        {
+		 to: 'blog', 
+		 label: 'Insights', 
+		 position: 'left'
+		},
         {
           href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+          label: 'Contact',
           position: 'right',
         },
       ],
@@ -82,13 +86,13 @@ module.exports = {
               to: 'blog',
             },
             {
-              label: 'GitHub',
+              label: 'Contact',
               href: 'https://github.com/facebook/docusaurus',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} modernify.ca. Built with Docusaurus.`,
     },
   },
   presets: [
