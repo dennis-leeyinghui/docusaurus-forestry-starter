@@ -8,7 +8,7 @@ module.exports = {
   projectName: 'docusaurus-forestry-starter', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'modernify.ca',
+      title: '',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
