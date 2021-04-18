@@ -38,3 +38,11 @@
 .hero {
   background-color: #f26d59;
 }
+
+.hero__title {
+  color: #ffffff
+}
+
+.react-toggle-track {
+  display: none;
+}

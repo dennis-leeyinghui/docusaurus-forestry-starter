@@ -12,7 +12,7 @@ const features = [
     imageUrl: 'img/simplify.svg',
     description: (
       <>
-        Your complex and low-efficient workflows streamlined to enhance efficiency.
+        Streamline your complex and low-efficient workflows.
       </>
     ),
   },
@@ -21,7 +21,7 @@ const features = [
     imageUrl: 'img/socialmedia.svg',
     description: (
       <>
-        Your online presence maximized beautifully and effectively.
+        Maximize your online presence beautifully and effectively.
       </>
     ),
   },
@@ -30,7 +30,7 @@ const features = [
     imageUrl: 'img/canada-flag.svg',
     description: (
       <>
-        Localized knowledge and services beat anything!
+        We know your business better because of our localized knowledge.
       </>
     ),
   },
