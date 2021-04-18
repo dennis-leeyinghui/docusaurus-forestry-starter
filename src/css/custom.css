@@ -66,3 +66,11 @@
 .main-wrapper {
   background-color: #f26d59;
 }
+
+.blogPostTitle_node_modules-@docusaurus-theme-classic-lib-theme-BlogPostItem-{
+  color: #ffffff
+}
+
+.avatar {
+  color: black 
+}
