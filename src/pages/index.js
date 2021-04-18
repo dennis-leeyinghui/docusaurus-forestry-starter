@@ -74,6 +74,7 @@ function Home() {
           </div>
         </div>
       </header>
+
       <main>
         {features && features.length > 0 && (
           <section className={styles.features}>
@@ -85,8 +86,22 @@ function Home() {
               </div>
             </div>
           </section>
+
+		 <br>
+
+		 <section className={styles.portfolioImage}>
+            <div className="container">
+              <div className="row">
+                {portfolioImage.map((props, idx) => (
+                  <Feature key={idx} {...props} />
+                ))}
+              </div>
+            </div>
+		</section>
+
         )}
       </main>
+
     </Layout>
   );
 }
