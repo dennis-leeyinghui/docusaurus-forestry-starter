@@ -43,10 +43,6 @@
   color: #ffffff
 }
 
-.react-toggle-track {
-  display: none;
-}
-
 .button.button--secondary.button--outline:not(.button--active):not(:hover) {
   color: #ffffff;
 }
@@ -73,4 +69,12 @@ a{
 
 article header {
   color: #000000;
+}
+
+.col .col--4 h3 {
+  color: #ffffff;
+}
+
+.col .col--4 p {
+  color: #ffffff;
 }
