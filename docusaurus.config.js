@@ -13,6 +13,7 @@ module.exports = {
         alt: 'Site Logo',
         src: 'img/logo.svg',
       },
+	  hideOnScroll: true,
       items: [
         {
           to: 'docs/',
