@@ -14,7 +14,6 @@ module.exports = {
         src: 'img/logo.svg',
       },
 	  hideOnScroll: true,
-	  disableSwitch: true,
       items: [
         {
           to: 'docs/',
