@@ -46,3 +46,19 @@
 .react-toggle-track {
   display: none;
 }
+
+.button.button--secondary.button--outline:not(.button--active):not(:hover) {
+  color: #ffffff;
+}
+
+.features_src-pages- {
+  background-color: #f26d59;
+}
+
+.navbar navbar--fixed-top {
+  background-color: #303846;
+}
+
+.navbar__item navbar__link {
+  color: #ffffff
+}
