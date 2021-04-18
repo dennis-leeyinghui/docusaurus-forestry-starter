@@ -6,6 +6,9 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
 
+import notflix-slider from './notflix-slider/base.css';
+import notflix-script from  './notflix-slider/script.js';
+
 const features = [
   {
     title: <>Simplify Workflows</>,
@@ -99,7 +102,36 @@ function Home() {
             </div>
 		</section>
 
-        )}
+		   )}
+
+	  <div class="container">
+		<button type="button" id="moveLeft" class="btn-nav">
+		  ?
+		</button>
+		<div class="container-indicators">
+		  <div class="indicator active" data-index=0></div>
+		  <div class="indicator" data-index=1></div>
+		  <div class="indicator" data-index=2></div>
+		</div>
+		<div class="slider" id="mySlider">
+		  <div class="movie" id="movie0">
+			<img
+			  src="https://images.unsplash.com/photo-1585951237318-9ea5e175b891?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+			  alt="" srcset="">
+			<div class="description">
+			  <div class="description__text-container">
+				<span>Explosive</span>
+				<span>&middot;</span>
+				<span>Exciting</span>
+			  </div>
+			</div>
+		  </div>
+		</div>
+		<button type="button" id="moveRight" class="btn-nav">
+		  ?
+		</button>
+	  </div>
+
       </main>
 
     </Layout>
