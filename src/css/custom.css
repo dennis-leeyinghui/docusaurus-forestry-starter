@@ -55,10 +55,14 @@
   background-color: #f26d59;
 }
 
-.navbar navbar--fixed-top {
+.navbar.navbar--fixed-top {
   background-color: #303846;
 }
 
-.navbar__item navbar__link {
+.navbar__item.navbar__link {
   color: #ffffff
+}
+
+.main-wrapper {
+  background-color: #f26d59;
 }
