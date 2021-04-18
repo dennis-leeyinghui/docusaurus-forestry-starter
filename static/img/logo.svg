@@ -2,28 +2,24 @@
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="912.092px" height="228.022px" viewBox="0 0 912.092 228.022" enable-background="new 0 0 912.092 228.022"
+	 width="228.234px" height="57.059px" viewBox="0 0 228.234 57.059" enable-background="new 0 0 228.234 57.059"
 	 xml:space="preserve">
-<rect x="-40.055" y="-8.719" fill="#F26E59" stroke="#F26E59" stroke-width="3.1555" stroke-miterlimit="10" width="1080.108" height="243.024"/>
+<text transform="matrix(1 0 0 1 32.041 45.1807)" fill="#F26E59" font-family="'TwCenMT-Regular'" font-size="37.5686">modernify.ca</text>
 <g>
-	<text transform="matrix(1 0 0 1 130.0117 172.3213)" fill="#FFFFFF" font-family="'TwCenMT-Regular'" font-size="147.6462">modernify.ca</text>
-	<g>
-		<path fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2.654" stroke-miterlimit="10" d="M21.002,172.321h9.925l34.432-44.396
-			c-2.242-1.37-4.313-2.992-6.188-4.817L21.002,172.321z"/>
-		<path fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2.654" stroke-miterlimit="10" d="M79.573,132.799v39.522h7.843v-39.522
-			c-1.287,0.144-2.594,0.226-3.92,0.226S80.86,132.942,79.573,132.799z"/>
-		<path fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2.654" stroke-miterlimit="10" d="M70.214,121.668l9.359-12.067v15.262
-			c1.284,0.188,2.588,0.319,3.923,0.319c1.336,0,2.638-0.131,3.92-0.319v-38.17l-23.394,30.161
-			C65.838,118.741,67.92,120.366,70.214,121.668z"/>
-		<path fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2.654" stroke-miterlimit="10" d="M59.171,123.108
-			c1.874,1.825,3.945,3.447,6.188,4.817l4.855-6.258c-2.294-1.302-4.376-2.927-6.191-4.814L59.171,123.108z"/>
-		<path fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2.654" stroke-miterlimit="10" d="M79.573,124.862v7.937
-			c1.287,0.144,2.597,0.226,3.923,0.226s2.633-0.082,3.92-0.226v-7.937c-1.282,0.188-2.584,0.319-3.92,0.319
-			C82.161,125.182,80.857,125.051,79.573,124.862z"/>
-		<path fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2.654" stroke-miterlimit="10" d="M135.703,85.663
-			c0-25.908-21.075-46.982-46.979-46.982c-25.905,0-46.982,21.074-46.982,46.982c0,12.007,4.545,22.961,11.98,31.271l6.63-8.519
-			c-5.019-6.239-8.047-14.142-8.047-22.753c0-20.083,16.335-36.418,36.419-36.418c20.078,0,36.415,16.335,36.415,36.418
-			c0,17.639-12.636,32.313-29.314,35.633v10.795C118.37,128.656,135.703,109.153,135.703,85.663z"/>
-	</g>
+	<path fill="#F26E59" stroke="#F26E59" stroke-width="0.856" stroke-miterlimit="10" d="M4.303,45.18h2.525l8.761-11.296
+		c-0.57-0.35-1.097-0.762-1.574-1.226L4.303,45.18z"/>
+	<path fill="#F26E59" stroke="#F26E59" stroke-width="0.856" stroke-miterlimit="10" d="M19.207,35.123V45.18h1.995V35.123
+		c-0.328,0.037-0.66,0.057-0.998,0.057S19.534,35.16,19.207,35.123z"/>
+	<path fill="#F26E59" stroke="#F26E59" stroke-width="0.856" stroke-miterlimit="10" d="M16.824,32.291l2.383-3.07v3.884
+		c0.326,0.047,0.657,0.081,0.997,0.081s0.672-0.034,0.998-0.081v-9.713l-5.953,7.675C15.711,31.545,16.241,31.959,16.824,32.291z"/>
+	<path fill="#F26E59" stroke="#F26E59" stroke-width="0.856" stroke-miterlimit="10" d="M14.015,32.658
+		c0.478,0.464,1.004,0.876,1.574,1.226l1.235-1.593c-0.583-0.332-1.113-0.746-1.575-1.225L14.015,32.658z"/>
+	<path fill="#F26E59" stroke="#F26E59" stroke-width="0.856" stroke-miterlimit="10" d="M19.207,33.104v2.019
+		c0.327,0.037,0.659,0.057,0.997,0.057s0.67-0.02,0.998-0.057v-2.019c-0.326,0.047-0.658,0.081-0.998,0.081
+		S19.533,33.151,19.207,33.104z"/>
+	<path fill="#F26E59" stroke="#F26E59" stroke-width="0.856" stroke-miterlimit="10" d="M33.489,23.13
+		c0-6.593-5.363-11.955-11.954-11.955c-6.593,0-11.955,5.362-11.955,11.955c0,3.055,1.156,5.842,3.049,7.956l1.687-2.168
+		c-1.277-1.587-2.048-3.597-2.048-5.788c0-5.11,4.156-9.268,9.268-9.268c5.108,0,9.265,4.157,9.265,9.268
+		c0,4.488-3.215,8.222-7.459,9.065v2.748C29.078,34.068,33.489,29.106,33.489,23.13z"/>
 </g>
 </svg>
