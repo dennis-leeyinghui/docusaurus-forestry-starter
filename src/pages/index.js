@@ -59,7 +59,7 @@ const portfolios = [
     imageUrl: 'img/simplify.svg',
     description: (
       <>
-        Streamline your complex and low-efficient workflows.
+        QQQQQQTTTQTT
       </>
     ),
   },
@@ -68,7 +68,7 @@ const portfolios = [
     imageUrl: 'img/simplify.svg',
     description: (
       <>
-        Maximize your online presence beautifully and effectively.
+        QQQQQQTTTQTT
       </>
     ),
   },
@@ -77,7 +77,7 @@ const portfolios = [
     imageUrl: 'img/simplify.svg',
     description: (
       <>
-        We know your business better because of our localized knowledge.
+        QQQQQQTTTQTT
       </>
     ),
   },
@@ -86,7 +86,7 @@ const portfolios = [
     imageUrl: 'img/simplify.svg',
     description: (
       <>
-        We know your business better because of our localized knowledge.
+        QQQQQQTTTQTT
       </>
     ),
   },
@@ -95,7 +95,7 @@ const portfolios = [
     imageUrl: 'img/simplify.svg',
     description: (
       <>
-        We know your business better because of our localized knowledge.
+        QQQQQQTTTQTT
       </>
     ),
   },
@@ -158,8 +158,8 @@ function Home() {
           <section className={styles.portfolios}>
             <div className="container">
               <div className="row">
-                {features.map((props, idx) => (
-                  <Feature key={idx} {...props} />
+                {portfolios.map((props, idx) => (
+                  <Portfolio key={idx} {...props} />
                 ))}
               </div>
             </div>
