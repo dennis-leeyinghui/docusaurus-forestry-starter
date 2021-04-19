@@ -78,3 +78,7 @@ article header {
 .col .col--4 p {
   color: #ffffff;
 }
+
+.react-toggle-track {
+  display: none;
+}
