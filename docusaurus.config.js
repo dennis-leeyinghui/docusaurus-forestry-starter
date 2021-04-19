@@ -34,7 +34,7 @@ module.exports = {
           position: 'left',
         },
         {
-		 to: 'blog', 
+		 to: 'blog/', 
 		 label: 'Insights', 
 		 position: 'left'
 		},
