@@ -32,14 +32,7 @@ function Home() {
 				  <li>Website Creation & Management</li>
 				  <li>Consulting Services</li>
 				  <li>New Business Ideas</li>
-				  <li></li>
 				</ul>
-
-				<br /> The four arrows are inline images inside the content area.
-				<img src="http://gridbyexample.com/examples/code/arrow-top-left.png" alt="top left" class="topleft" />
-				<img src="http://gridbyexample.com/examples/code/arrow-top-right.png" alt="top right" class="topright" />
-				<img src="http://gridbyexample.com/examples/code/arrow-bottom-left.png" alt="bottom left" class="bottomleft" />
-				<img src="http://gridbyexample.com/examples/code/arrow-bottom-right.png" alt="bottom right" class="bottomright" /></div>
 
 			  <div class="grid-box grid-footer">Contact Us Now.</div>
 			</div>
