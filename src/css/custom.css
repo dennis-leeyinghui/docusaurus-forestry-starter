@@ -83,6 +83,10 @@ article header {
   display: none;
 }
 
+.react-toggle-track {
+  display: none;
+}
+
 .PortfolioTitle {
   color: white;
   font-size: 3rem;
@@ -166,7 +170,7 @@ grid-body {
 
 /* Promo / fee table START */
 
-.table {
+table {
   background-color: #fa998a;
 }
 
@@ -180,7 +184,6 @@ grid-body {
 }
 
 .tg th {
-	font-weight: normal;
 	overflow: hidden;
 	padding: 10px 5px;
 	text-align: center;
@@ -188,17 +191,11 @@ grid-body {
 }
 
 .tg .tg-akna {
-	background-color: #000000;
-	border-color: #000000;
-	font-weight: bold;
 	text-align: center;
 	vertical-align: top
 }
 
 .tg .tg-3pw4 {
-	background-color: #000000;
-	border-color: #000000;
-	font-weight: bold;
 	text-align: center;
 	vertical-align: top
 }
@@ -224,4 +221,8 @@ grid-body {
 
 main p {
  margin: 1rem;
+}
+
+.featureTitle {
+	text-align: center;
 }

@@ -27,13 +27,7 @@ function Home() {
 				<p></p>
 				<p>Our expertise in digital marketing and business analyst have given us an unique advantage in providing our clients with measurable benefits.</p>
  				<p></p>
-				<p>Examples of tangible benefits include an increase in sales and conversion ratees</p>
-
-				<p>Some key small business statistics about Atlantic Canada:</p>
-				<p></p>
-				<p>Our latest promo:</p>
-
-				<p><b>WOW Bundle!</b></p>
+				<p>Examples of tangible growth include an increase in sales and conversion ratees</p>
 
 				</div>
 			  <div class="grid-box grid-footer"><p>Contact Us Now.</p></div>

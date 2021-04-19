@@ -23,7 +23,7 @@ function Home() {
 			  <div class="grid-box grid-sidebar"><img src="/img/services.svg" /></div>
 			  <div class="grid-box grid-content">
 
-				<p>We help business to <b>maximize online exposure with minimum money</b>.</p>
+				<p>We help business to <b>maximize online exposure with minimum budgets</b>.</p>
 				<p></p>
 				<p>Our core services include:</p>
 
