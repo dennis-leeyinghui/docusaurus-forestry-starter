@@ -22,13 +22,13 @@ module.exports = {
           position: 'left',
         },
         {
-          to: 'about/services',
+          to: 'services',
           activeBasePath: 'services',
           label: 'Services',
           position: 'left',
         },
         {
-          to: 'about/fees',
+          to: 'about/',
           activeBasePath: 'fees',
           label: 'Fees',
           position: 'left',
