@@ -20,7 +20,7 @@ function Home() {
 		<grid-body>
 			<div class="grid-wrapper">
 			  <div class="grid-box grid-header">Services</div>
-			  <div class="grid-box grid-sidebar"><img src="img/services.svg"></div>
+			  <div class="grid-box grid-sidebar"><img src="img/services.svg" /></div>
 			  <div class="grid-box grid-content">We help your business to maximize online exposure cost-effectively. Our core services include:
 
 				<ul>
