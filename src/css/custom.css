@@ -172,18 +172,25 @@ grid-body {
 
 table {
   background-color: #fa998a;
+  border: none;
+  text-align: center;
+  display: table;
 }
 
 .tg {
 }
 
 .tg td {
+	background-color: #fa998a;
+	border: none;
 	overflow: hidden;
 	padding: 10px 5px;
 	word-break: normal;
 }
 
 .tg th {
+	background-color: #fa998a;
+	border: none;
 	overflow: hidden;
 	padding: 10px 5px;
 	text-align: center;
