@@ -11,7 +11,7 @@ tags:
 id: key-statistics-in-atlantic-canada
 title: Key Statistics for CEOs / Directors / Business owners in Atlantic Canada (2021)
 author: Modernify.ca
-author_title: Chief Strategist
+author_title: ''
 author_url: ''
 author_image_url: ''
 
