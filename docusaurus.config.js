@@ -16,19 +16,19 @@ module.exports = {
 	  hideOnScroll: true,
       items: [
         {
-          to: 'about/',
+          to: 'about/us',
           activeBasePath: 'about',
           label: 'About Us',
           position: 'left',
         },
         {
-          to: 'services/',
+          to: 'about/services',
           activeBasePath: 'services',
           label: 'Services',
           position: 'left',
         },
         {
-          to: 'fees/',
+          to: 'about/fees',
           activeBasePath: 'fees',
           label: 'Fees',
           position: 'left',
@@ -39,7 +39,7 @@ module.exports = {
 		 position: 'left'
 		},
         {
-          to: 'contact/',
+          to: 'about/contact',
           label: 'Contact',
           position: 'left',
         },
@@ -49,15 +49,11 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'About',
+          title: 'Who we are?',
           items: [
             {
-              label: 'Our Mission',
+              label: 'About Us',
               to: 'about/',
-            },
-            {
-              label: 'Our Team',
-              to: 'about/team',
             },
           ],
         },
@@ -75,22 +71,22 @@ module.exports = {
           ],
         },
         {
-          title: 'Useful Resources',
+          title: 'Chamber of Commerce',
           items: [
             {
-              label: 'Atlantic Chamber of Commerce',
+              label: 'Atlantic Canada',
               href: 'https://www.atlanticchamber.ca/',
             },
             {
-              label: 'Greater Charlottetown Area Chamber of Commerce',
+              label: 'Greater Charlottetown Area',
               href: 'https://www.charlottetownchamber.com/',
             },
             {
-              label: 'Halifax Chamber of Commerce',
+              label: 'Halifax',
               href: 'https://halifaxchamber.com/',
             },
             {
-              label: 'Chamber of Commerce for Greater Moncton',
+              label: 'Greater Moncton',
               href: 'https://ccgm.ca/about/',
             },
           ],
