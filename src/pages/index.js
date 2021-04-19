@@ -91,6 +91,42 @@ const portfolios = [
     ),
   },
   {
+    title: <>Portfolio#6</>,
+    imageUrl: 'img/simplify.svg',
+    description: (
+      <>
+        QQQQQQTTTQTT
+      </>
+    ),
+  },
+  {
+    title: <>Portfolio#7</>,
+    imageUrl: 'img/simplify.svg',
+    description: (
+      <>
+        QQQQQQTTTQTT
+      </>
+    ),
+  },
+  {
+    title: <>Portfolio#8</>,
+    imageUrl: 'img/simplify.svg',
+    description: (
+      <>
+        QQQQQQTTTQTT
+      </>
+    ),
+  },
+  {
+    title: <>Portfolio#9</>,
+    imageUrl: 'img/simplify.svg',
+    description: (
+      <>
+        QQQQQQTTTQTT
+      </>
+    ),
+  },
+  {
     title: <>Portfolio#5</>,
     imageUrl: 'img/simplify.svg',
     description: (
@@ -104,7 +140,7 @@ const portfolios = [
 function Portfolio({imageUrl, title, description}) {
   const imgUrl = useBaseUrl(imageUrl);
   return (
-    <div className={classnames('col col--4', styles.portfolios)}>
+    <div className={classnames('col col--3', styles.portfolios)}>
       {imgUrl && (
         <div className="text--center">
           <img className={styles.portfolioImage} src={imgUrl} alt={title} />
@@ -154,6 +190,7 @@ function Home() {
             </div>
           </section>
 		   )}
+			<div><h3>Portfolio</h3></div>
         {portfolios && portfolios.length > 0 && (
           <section className={styles.portfolios}>
             <div className="container">
