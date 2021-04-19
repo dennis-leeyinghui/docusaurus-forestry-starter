@@ -28,7 +28,7 @@ function Home() {
 				<p></p>
 				<p>Our latest promo:</p>
 
-				<p><b>WOW Bundle!</b></p>
+				<p><b><img src="/img/celebrate.svg" width="50px" height="50px" />WOW Bundle! at CA$99/mo (+tax) </b></p>
 
 			<div class="tg-wrap">
 				  <table>
