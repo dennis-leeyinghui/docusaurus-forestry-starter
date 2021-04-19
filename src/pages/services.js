@@ -20,6 +20,21 @@ function Home() {
 		  <p>Centered!</p>
 		</div>
         <div><h3> QQQQQ </h3></div>
+
+		<grid-body>
+			<div class="grid-wrapper">
+			  <div class="grid-box grid-header">Header</div>
+			  <div class="grid-box grid-sidebar">Sidebar</div>
+			  <div class="grid-box grid-content">Content
+				<br /> The four arrows are inline images inside the content area.
+				<img src="http://gridbyexample.com/examples/code/arrow-top-left.png" alt="top left" class="topleft" />
+				<img src="http://gridbyexample.com/examples/code/arrow-top-right.png" alt="top right" class="topright" />
+				<img src="http://gridbyexample.com/examples/code/arrow-bottom-left.png" alt="bottom left" class="bottomleft" />
+				<img src="http://gridbyexample.com/examples/code/arrow-bottom-right.png" alt="bottom right" class="bottomright" /></div>
+			  <div class="grid-box grid-footer">Footer</div>
+			</div>
+		</grid-body>
+
       </main>
     </Layout>
   );

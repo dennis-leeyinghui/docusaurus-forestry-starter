@@ -108,3 +108,48 @@ div.container4 p {
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%) }
+
+/* Grid Table Start */
+
+grid-body {
+  margin: 40px;
+}
+
+.grid-sidebar {
+  grid-area: sidebar;
+}
+
+.grid-content {
+  grid-area: content;
+  position: relative;
+}
+
+.grid-header {
+  grid-area: header;
+}
+
+.grid-footer {
+  grid-area: footer;
+}
+
+.grid-wrapper {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 200px 200px 200px;
+    grid-template-areas:
+    "header  header  header"
+    "sidebar content content"
+    "footer  footer  footer";
+    background-color: #fff;
+    color: #444;
+  }
+
+.grid-box {
+  background-color: #444;
+  color: #fff;
+  border-radius: 5px;
+  padding: 50px;
+  font-size: 150%;
+}
+
+/* Grid Table End */
