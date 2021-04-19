@@ -30,15 +30,17 @@ function Home() {
 
 				<p><b>WOW Bundle!</b></p>
 
-				</div>
-
-			  <div class="grid-box grid-footer"><p>Contact Us Now.</p></div>
-			</div>
-		</grid-body>
-
 			<div class="tg-wrap">
 				  <table>
 					<tbody>
+					 <tr>
+						<td class="tg-akna">Service Breakdown</td>
+						<td class="tg-3pw4">Count</td>
+					 </tr>
+					 <tr>
+						<td class="tg-akna">Weekly Facebook (FB) static posts</td>
+						<td class="tg-3pw4">4</td>
+					 </tr>
 					 <tr>
 						<td class="tg-akna">Weekly Instagram (IG) static posts</td>
 						<td class="tg-3pw4">4</td>
@@ -60,12 +62,18 @@ function Home() {
 						<td class="tg-3pw4">UNLIMITED</td>
 					 </tr>
 					 <tr>
-						<td class="tg-akna">BONUS: Ad of any idea on FB/IG</td>
+						<td class="tg-akna">BONUS: Ad of any idea on FB or IG</td>
 						<td class="tg-3pw4">1</td>
 					 </tr>
 				  </tbody>
 			   </table>
 			</div>
+
+				</div>
+
+			  <div class="grid-box grid-footer"><p>Contact Us Now.</p></div>
+			</div>
+		</grid-body>
 
       </main>
     </Layout>
