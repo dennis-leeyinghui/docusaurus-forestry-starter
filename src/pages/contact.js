@@ -26,9 +26,6 @@ function Home() {
 				<p>Feel free to reach out for a quote or a chat!</p>
 				<p>We can be reached at:</p>
 				<p></p>
-				<p>Our latest promo:</p>
-
-				<p><b>WOW Bundle!</b></p>
 
 				</div>
 			  <div class="grid-box grid-footer"><p>Contact Us Now.</p></div>

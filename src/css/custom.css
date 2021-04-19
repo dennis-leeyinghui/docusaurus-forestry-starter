@@ -164,7 +164,6 @@ grid-body {
 
 
 /* Promo / fee table START */
-
 .tg {
 	border-collapse: collapse;
 	border-spacing: 0;
@@ -193,16 +192,33 @@ grid-body {
 	word-break: normal;
 }
 
-.tg .tg-1wig {
+.tg .tg-akna {
+	background-color: #000000;
+	border-color: #000000;
 	font-weight: bold;
 	text-align: left;
 	vertical-align: top
 }
 
-.tg .tg-amwm {
+.tg .tg-3pw4 {
+	background-color: #000000;
+	border-color: #000000;
 	font-weight: bold;
 	text-align: center;
 	vertical-align: top
+}
+
+@media screen and (max-width: 767px) {
+	.tg {
+		width: auto !important;
+	}
+	.tg col {
+		width: auto !important;
+	}
+	.tg-wrap {
+		overflow-x: auto;
+		-webkit-overflow-scrolling: touch;
+	}
 }
 
 /* Promo / fee table END */

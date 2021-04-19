@@ -30,40 +30,40 @@ function Home() {
 
 				<p><b>WOW Bundle!</b></p>
 
-				<table class="tg" style="undefined;table-layout: fixed; width: 454px">
-				<colgroup>
-				<col style="width: 323px" />
-				<col style="width: 131px" />
-				</colgroup>
-				<thead>
-				  <tr>
-					<th class="tg-1wig">Weekly Instagram (IG) static posts</th>
-					<th class="tg-amwm">4</th>
-				  </tr>
-				</thead>
-				<tbody>
-				  <tr>
-					<td class="tg-1wig">Weekly Facebook (FB) static posts</td>
-					<td class="tg-amwm">4</td>
-				  </tr>
-				  <tr>
-					<td class="tg-1wig">Instagram (IG) video post</td>
-					<td class="tg-amwm">2</td>
-				  </tr>
-				  <tr>
-					<td class="tg-1wig">Facebook (FB) video post</td>
-					<td class="tg-amwm">2</td>
-				  </tr>
-				  <tr>
-					<td class="tg-1wig">Social media performance reports</td>
-					<td class="tg-amwm">UNLIMITED</td>
-				  </tr>
-				  <tr>
-					<td class="tg-1wig">BONUS: Ad of any idea on FB/IG</td>
-					<td class="tg-amwm">1</td>
-				  </tr>
-				</tbody>
-				</table>
+				<div class="tg-wrap">
+				   <table class="tg" style="undefined;table-layout: fixed; width: 454px">
+					  <colgroup>
+						 <col style="width: 323px" />
+						 <col style="width: 131px" />
+					  </colgroup>
+					  <tbody>
+						 <tr>
+							<td class="tg-akna">Weekly Instagram (IG) static posts</td>
+							<td class="tg-3pw4">4</td>
+						 </tr>
+						 <tr>
+							<td class="tg-akna">Weekly Facebook (FB) static posts</td>
+							<td class="tg-3pw4">4</td>
+						 </tr>
+						 <tr>
+							<td class="tg-akna">Instagram (IG) video post</td>
+							<td class="tg-3pw4">2</td>
+						 </tr>
+						 <tr>
+							<td class="tg-akna">Facebook (FB) video post</td>
+							<td class="tg-3pw4">2</td>
+						 </tr>
+						 <tr>
+							<td class="tg-akna">Social media performance reports</td>
+							<td class="tg-3pw4">UNLIMITED</td>
+						 </tr>
+						 <tr>
+							<td class="tg-akna">BONUS: Ad of any idea on FB/IG</td>
+							<td class="tg-3pw4">1</td>
+						 </tr>
+					  </tbody>
+				   </table>
+				</div>
 
 				</div>
 			  <div class="grid-box grid-footer"><p>Contact Us Now.</p></div>
