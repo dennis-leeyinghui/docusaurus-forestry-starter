@@ -23,7 +23,7 @@ function Home() {
 			<div class="grid-wrapper">
 			  <div class="grid-box grid-header">Services</div>
 			  <div class="grid-box grid-sidebar"><img src="/img/services.svg" /></div>
-			  <div class="grid-box grid-content">We help your business to maximize online exposure cost-effectively. Our core services include:
+			  <div class="grid-box grid-content">We help business to maximize online exposure cost-effectively. <br /> Our core services include:
 
 				<ul>
 				  <li>Social Media Management</li>
