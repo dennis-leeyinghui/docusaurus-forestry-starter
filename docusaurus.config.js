@@ -16,9 +16,21 @@ module.exports = {
 	  hideOnScroll: true,
       items: [
         {
-          to: 'docs/',
-          activeBasePath: 'docs',
-          label: 'Docs',
+          to: 'about/',
+          activeBasePath: 'about',
+          label: 'About Us',
+          position: 'left',
+        },
+        {
+          to: 'services/',
+          activeBasePath: 'services',
+          label: 'Services',
+          position: 'left',
+        },
+        {
+          to: 'fees/',
+          activeBasePath: 'fees',
+          label: 'Fees',
           position: 'left',
         },
         {
@@ -27,7 +39,7 @@ module.exports = {
 		 position: 'left'
 		},
         {
-          href: 'mailto:',
+          href: 'contact/',
           label: 'Contact',
           position: 'left',
         },
@@ -37,15 +49,15 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'About Us',
+          title: 'About',
           items: [
             {
               label: 'Our Mission',
-              to: 'docs/',
+              to: 'about/',
             },
             {
               label: 'Our Team',
-              to: 'docs/doc2/',
+              to: 'about/team',
             },
           ],
         },
@@ -54,11 +66,11 @@ module.exports = {
           items: [
             {
               label: 'Our Services',
-              to: 'docs/',
+              to: 'about/services',
             },
             {
               label: 'Service Fees',
-              to: 'docs/doc2/',
+              to: 'about/fees/',
             },
           ],
         },
@@ -66,29 +78,33 @@ module.exports = {
           title: 'Useful Resources',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Atlantic Chamber of Commerce',
+              href: 'https://www.atlanticchamber.ca/',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Greater Charlottetown Area Chamber of Commerce',
+              href: 'https://www.charlottetownchamber.com/',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'Halifax Chamber of Commerce',
+              href: 'https://halifaxchamber.com/',
+            },
+            {
+              label: 'Chamber of Commerce for Greater Moncton',
+              href: 'https://ccgm.ca/about/',
             },
           ],
         },
         {
-          title: 'More',
+          title: 'Talk to Us',
           items: [
             {
-              label: 'Blog',
+              label: 'Insights',
               to: 'blog',
             },
             {
               label: 'Contact',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'contact',
             },
           ],
         },
@@ -100,7 +116,7 @@ module.exports = {
     [
       '@docusaurus/preset-classic',
       {
-        docs: {
+        about: {
           sidebarPath: require.resolve('./sidebars.json'),
           // Please change this to your repo.
           editUrl:
