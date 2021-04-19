@@ -13,7 +13,7 @@ title: Key Statistics for CEOs / Directors / Business owners in Atlantic Canada 
 author: Modernify.ca
 author_title: Chief Strategist
 author_url: ''
-author_image_url: "/img/logo-only-400x400.svg"
+author_image_url: ''
 
 ---
 Atlantic Canada is huge. It comprises four provinces on the Atlantic coast: New Brunswick, Nova Scotia, Newfoundland and Labrador, and Prince Edward Island. In 2016, there were about 2.3 million people on 0.5 million km2 in total in Atlantic Canada.
