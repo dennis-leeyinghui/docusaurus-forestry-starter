@@ -189,8 +189,8 @@ function Home() {
               </div>
             </div>
           </section>
-		   )} <hr></hr>
-			<div><h3 className="PortfolioTitle">>Portfolio</h3></div>
+		   )} 
+			<div><h3 className="PortfolioTitle">Portfolio</h3></div>
         {portfolios && portfolios.length > 0 && (
           <section className={styles.portfolios}>
             <div className="container">
