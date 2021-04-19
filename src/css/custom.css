@@ -142,6 +142,7 @@ grid-body {
     "sidebar content content"
     "footer  footer  footer"; 
     color: #444;
+    justify-items: center;
   }
 
 .grid-box {
