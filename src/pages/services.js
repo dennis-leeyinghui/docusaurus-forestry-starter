@@ -19,11 +19,11 @@ function Home() {
 
 		<grid-body>
 			<div class="grid-wrapper">
-			  <div class="grid-box grid-header">Services</div>
+			  <div class="grid-box grid-header">SERVICES</div>
 			  <div class="grid-box grid-sidebar"><img src="/img/services.svg" /></div>
 			  <div class="grid-box grid-content">
 
-				<p>We help business to maximize online exposure cost-effectively.</p>
+				<p>We help business to <b>maximize online exposure with minimum money</b>.</p>
 				<p></p>
 				<p>Our core services include:</p>
 
@@ -31,12 +31,12 @@ function Home() {
 				<ul>
 				  <li>Social Media Management</li>
 				  <li>Marketing Campaigns</li>
-				  <li>Advertisements Design</li>
+				  <li>Advertisement Designs</li>
 				  <li>Workflow Simplification</li>
 				  <li>Digital Transformation</li>
 				  <li>Website Creation & Management</li>
 				  <li>Consulting Services</li>
-				  <li>New Business Ideas</li>
+				  <li>New Business Ideas Creation</li>
 				</ul>
 				</p>
 
