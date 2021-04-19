@@ -91,5 +91,9 @@ article header {
 }
 
 .portfolios_src-pages- {
-  padding: 0;
+  padding: 0 px;
+}
+
+.row {
+  padding: 0 px;
 }
