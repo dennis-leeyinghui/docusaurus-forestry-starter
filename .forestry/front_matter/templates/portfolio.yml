@@ -1,0 +1,8 @@
+---
+label: Portfolio
+hide_body: true
+fields:
+- name: portfolio-images
+  type: image_gallery
+  config: {}
+  label: portfolio-images
