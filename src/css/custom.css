@@ -177,8 +177,6 @@ table {
   display: table;
 }
 
-.tg {
-}
 
 .tg td {
 	background-color: #fa998a;
@@ -198,11 +196,15 @@ table {
 }
 
 .tg .tg-akna {
+	background-color: #fa998a;
+	border: none;
 	text-align: center;
 	vertical-align: top
 }
 
 .tg .tg-3pw4 {
+	background-color: #fa998a;
+	border: none;
 	text-align: center;
 	vertical-align: top
 }
