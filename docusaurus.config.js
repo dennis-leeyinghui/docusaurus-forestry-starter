@@ -12,9 +12,6 @@ module.exports = {
   stylesheets: [
     '',
   ],
-  plugins: [
-    '@docusaurus/plugin-ideal-image'
-  ],
   themeConfig: {
     navbar: {
       title: '',
