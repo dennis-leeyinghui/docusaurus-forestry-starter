@@ -28,7 +28,7 @@ function Home() {
 				<p></p>
 				<p>Our latest promo:</p>
 
-				<p><b>WOW Bundle!</b>
+				<p><b>WOW Bundle!</b></p>
 
 				<table class="tg" style="undefined;table-layout: fixed; width: 454px">
 				<colgroup>
