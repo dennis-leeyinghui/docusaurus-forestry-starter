@@ -16,10 +16,6 @@ function Home() {
       title={`Hello from ${siteConfig.title}`}
       description="We help Atlantic Canadian businesses look better online.">
       <main>
-		<div class="container4">
-		  <p>Centered!</p>
-		</div>
-        <div><h3> QQQQQ </h3></div>
 
 		<grid-body>
 			<div class="grid-wrapper">
