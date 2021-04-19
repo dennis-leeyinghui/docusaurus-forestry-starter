@@ -28,7 +28,7 @@ function Home() {
 				<p></p>
 				<p>Our latest promo:</p>
 
-				<p style="text-align: center"><b>WOW Bundle!</b></p>
+				<p><b>WOW Bundle!</b></p>
 
 			<div class="tg-wrap">
 				  <table>
