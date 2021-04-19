@@ -134,7 +134,7 @@ grid-body {
 
 .grid-wrapper {
     display: grid;
-	margin: 15%;
+	margin: 0 15%;
     grid-gap: 10px;
     grid-template-columns: 200px 200px 200px;
     grid-template-areas:
