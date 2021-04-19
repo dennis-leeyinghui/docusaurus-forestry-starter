@@ -134,13 +134,13 @@ grid-body {
 
 .grid-wrapper {
     display: grid;
+	margin: 15%;
     grid-gap: 10px;
     grid-template-columns: 200px 200px 200px;
     grid-template-areas:
     "header  header  header"
     "sidebar content content"
-    "footer  footer  footer";
-    background-color: #fff;
+    "footer  footer  footer"; 
     color: #444;
   }
 
