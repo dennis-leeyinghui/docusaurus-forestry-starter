@@ -28,9 +28,9 @@ module.exports = {
           position: 'left',
         },
         {
-          to: 'fees',
-          activeBasePath: 'fees',
-          label: 'Fees',
+          to: 'promo',
+          activeBasePath: 'promo',
+          label: 'Promo',
           position: 'left',
         },
         {
@@ -65,8 +65,8 @@ module.exports = {
               to: 'services',
             },
             {
-              label: 'Service Fees',
-              to: 'fees/',
+              label: 'Promo',
+              to: 'promo/',
             },
           ],
         },

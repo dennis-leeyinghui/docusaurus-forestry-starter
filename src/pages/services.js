@@ -33,7 +33,8 @@ function Home() {
 				  <li>Consulting Services</li>
 				  <li>New Business Ideas</li>
 				</ul>
-
+				
+				</div>
 			  <div class="grid-box grid-footer">Contact Us Now.</div>
 			</div>
 		</grid-body>
