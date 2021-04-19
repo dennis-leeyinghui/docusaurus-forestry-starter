@@ -110,7 +110,7 @@ function Portfolio({imageUrl, title, description}) {
           <img className={styles.portfolioImage} src={imgUrl} alt={title} />
         </div>
       )}
-      {title} <br>
+      {title}
       {description}
     </div>
   );
