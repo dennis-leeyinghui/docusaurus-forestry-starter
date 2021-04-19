@@ -122,7 +122,6 @@ grid-body {
 .grid-content {
   grid-area: content;
   position: relative;
-  width: 50rem;
 }
 
 .grid-header {
@@ -132,6 +131,11 @@ grid-body {
 .grid-footer {
   grid-area: footer;
 }
+
+/*
+.grid-wrapper {
+    display: grid;
+}*/
 
 .grid-wrapper {
     display: grid;
@@ -151,6 +155,10 @@ grid-body {
   border-radius: 5px;
   padding: 10px;
   font-size: 150%;
+}
+
+.grid-sidebar img {
+  width: 50 rem;
 }
 
 /* Grid Table End */
