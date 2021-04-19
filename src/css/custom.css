@@ -175,6 +175,8 @@ table {
   border: none;
   text-align: center;
   display: table;
+  border-collapse: unset;
+
 }
 
 tr {
@@ -182,7 +184,7 @@ tr {
   border: none;
 }
 
-td {
+table td {
   background-color: #fa998a;
   border: none;
 }
