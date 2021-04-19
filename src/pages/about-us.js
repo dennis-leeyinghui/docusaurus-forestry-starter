@@ -33,7 +33,7 @@ function Home() {
 				<p></p>
 				<p>Our latest promo:</p>
 
-				<p><b>WOW Bundle!</b>
+				<p><b>WOW Bundle!</b></p>
 
 				</div>
 			  <div class="grid-box grid-footer"><p>Contact Us Now.</p></div>
