@@ -16,7 +16,7 @@ module.exports = {
 	  hideOnScroll: true,
       items: [
         {
-          to: 'about/us',
+          to: 'about-us',
           activeBasePath: 'about',
           label: 'About Us',
           position: 'left',
@@ -28,7 +28,7 @@ module.exports = {
           position: 'left',
         },
         {
-          to: 'about/',
+          to: 'fees',
           activeBasePath: 'fees',
           label: 'Fees',
           position: 'left',
@@ -39,7 +39,7 @@ module.exports = {
 		 position: 'left'
 		},
         {
-          to: 'about/contact',
+          to: 'contact',
           label: 'Contact',
           position: 'left',
         },
@@ -53,7 +53,7 @@ module.exports = {
           items: [
             {
               label: 'About Us',
-              to: 'about/',
+              to: 'about-us/',
             },
           ],
         },
@@ -62,11 +62,11 @@ module.exports = {
           items: [
             {
               label: 'Our Services',
-              to: 'about/services',
+              to: 'services',
             },
             {
               label: 'Service Fees',
-              to: 'about/fees/',
+              to: 'fees/',
             },
           ],
         },
