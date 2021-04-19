@@ -16,10 +16,30 @@ function Home() {
       title={`Hello from ${siteConfig.title}`}
       description="We help Atlantic Canadian businesses look better online.">
       <main>
-		<div class="container4">
-		  <p>Centered!</p>
-		</div>
-        <div><h3> QQQQQ </h3></div>
+
+		<grid-body>
+			<div class="grid-wrapper">
+			  <div class="grid-box grid-header">ABOUT US</div>
+			  <div class="grid-box grid-sidebar"><img src="/img/biglogo.svg" /></div>
+			  <div class="grid-box grid-content">
+
+				<p>At modernify.ca, we are committed to empowering small and midsize businesses (SMBs) in Atlantic Canada by increasing their online presence.</p>
+				<p></p>
+				<p>Our expertise in digital marketing and business analyst have given us an unique advantage in providing our clients with measurable benefits.</p>
+ 				<p></p>
+				<p>Examples of tangible benefits include an increase in sales and conversion ratees</p>
+
+				<p>Some key small business statistics about Atlantic Canada:</p>
+				<p></p>
+				<p>Our latest promo:</p>
+
+				<p><b>WOW Bundle!</b>
+
+				</div>
+			  <div class="grid-box grid-footer"><p>Contact Us Now.</p></div>
+			</div>
+		</grid-body>
+
       </main>
     </Layout>
   );

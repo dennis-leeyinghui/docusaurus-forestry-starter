@@ -16,10 +16,25 @@ function Home() {
       title={`Hello from ${siteConfig.title}`}
       description="We help Atlantic Canadian businesses look better online.">
       <main>
-		<div class="container4">
-		  <p>Centered!</p>
-		</div>
-        <div><h3> QQQQQ </h3></div>
+
+		<grid-body>
+			<div class="grid-wrapper">
+			  <div class="grid-box grid-header">CONTACT US</div>
+			  <div class="grid-box grid-sidebar"><img src="/img/contactus.svg" /></div>
+			  <div class="grid-box grid-content">
+
+				<p>Feel free to reach out for a quote or a chat!</p>
+				<p>We can be reached at:</p>
+				<p></p>
+				<p>Our latest promo:</p>
+
+				<p><b>WOW Bundle!</b>
+
+				</div>
+			  <div class="grid-box grid-footer"><p>Contact Us Now.</p></div>
+			</div>
+		</grid-body>
+
       </main>
     </Layout>
   );

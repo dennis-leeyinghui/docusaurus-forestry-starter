@@ -32,8 +32,8 @@ function Home() {
 
 				<table class="tg" style="undefined;table-layout: fixed; width: 454px">
 				<colgroup>
-				<col style="width: 323px">
-				<col style="width: 131px">
+				<col style="width: 323px" />
+				<col style="width: 131px" />
 				</colgroup>
 				<thead>
 				  <tr>
