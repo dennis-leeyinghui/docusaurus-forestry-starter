@@ -30,6 +30,11 @@ function Home() {
 
 				<p><b>WOW Bundle!</b></p>
 
+				</div>
+			  <div class="grid-box grid-footer"><p>Contact Us Now.</p></div>
+			</div>
+		</grid-body>
+
 				<div class="tg-wrap">
 				   <table class="tg" style="undefined;table-layout: fixed; width: 454px">
 					  <colgroup>
@@ -64,11 +69,6 @@ function Home() {
 					  </tbody>
 				   </table>
 				</div>
-
-				</div>
-			  <div class="grid-box grid-footer"><p>Contact Us Now.</p></div>
-			</div>
-		</grid-body>
 
       </main>
     </Layout>

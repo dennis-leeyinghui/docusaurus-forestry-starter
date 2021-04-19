@@ -20,7 +20,7 @@ function Home() {
 		<grid-body>
 			<div class="grid-wrapper">
 			  <div class="grid-box grid-header">ABOUT US</div>
-			  <div class="grid-box grid-sidebar"><img src="/img/abousus.svg" /></div>
+			  <div class="grid-box grid-sidebar"><img src="/img/aboutus.svg" /></div>
 			  <div class="grid-box grid-content">
 
 				<p>At modernify.ca, we are committed to empowering small and midsize businesses (SMBs) in Atlantic Canada by increasing their online presence.</p>
