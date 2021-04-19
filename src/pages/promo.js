@@ -36,11 +36,6 @@ function Home() {
 		</grid-body>
 
 				<div class="tg-wrap">
-				   <table class="tg" style="undefined;table-layout: fixed; width: 454px">
-					  <colgroup>
-						 <col style="width: 323px" />
-						 <col style="width: 131px" />
-					  </colgroup>
 					  <tbody>
 						 <tr>
 							<td class="tg-akna">Weekly Instagram (IG) static posts</td>
