@@ -36,6 +36,12 @@
   width: 200px;
 }
 
+.portfolios {
+    height: 250px;
+    width: 250px;
+    padding: 1rem;
+}
+
 .portfolioImage {
     height: 150px;
     width: 150px;

@@ -52,6 +52,72 @@ function Feature({imageUrl, title, description}) {
   );
 }
 
+// Portfolio Grid Start *********
+const portfolios = [
+  {
+    title: <>Portfolio#1</>,
+    imageUrl: 'img/simplify.svg',
+    description: (
+      <>
+        Streamline your complex and low-efficient workflows.
+      </>
+    ),
+  },
+  {
+    title: <>Portfolio#2</>,
+    imageUrl: 'img/simplify.svg',
+    description: (
+      <>
+        Maximize your online presence beautifully and effectively.
+      </>
+    ),
+  },
+  {
+    title: <>Portfolio#3</>,
+    imageUrl: 'img/simplify.svg',
+    description: (
+      <>
+        We know your business better because of our localized knowledge.
+      </>
+    ),
+  },
+  {
+    title: <>Portfolio#4</>,
+    imageUrl: 'img/simplify.svg',
+    description: (
+      <>
+        We know your business better because of our localized knowledge.
+      </>
+    ),
+  },
+  {
+    title: <>Portfolio#5</>,
+    imageUrl: 'img/simplify.svg',
+    description: (
+      <>
+        We know your business better because of our localized knowledge.
+      </>
+    ),
+  },
+];
+
+function Portfolio({imageUrl, title, description}) {
+  const imgUrl = useBaseUrl(imageUrl);
+  return (
+    <div className={classnames('col col--4', styles.portfolios)}>
+      {imgUrl && (
+        <div className="text--center">
+          <img className={styles.portfolioImage} src={imgUrl} alt={title} />
+        </div>
+      )}
+      {title} <br>
+      {description}
+    </div>
+  );
+}
+
+// Portfolio Grid End *********
+
 function Home() {
   const context = useDocusaurusContext();
   const {siteConfig = {}} = context;
@@ -79,6 +145,17 @@ function Home() {
       <main>
         {features && features.length > 0 && (
           <section className={styles.features}>
+            <div className="container">
+              <div className="row">
+                {features.map((props, idx) => (
+                  <Feature key={idx} {...props} />
+                ))}
+              </div>
+            </div>
+          </section>
+		   )}
+        {portfolios && portfolios.length > 0 && (
+          <section className={styles.portfolios}>
             <div className="container">
               <div className="row">
                 {features.map((props, idx) => (
