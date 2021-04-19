@@ -79,11 +79,19 @@ article header {
   color: #ffffff;
 }
 
+.row .col.col--8 {
+  background-color: #f26d59;
+}
+
 .react-toggle {
   display: none;
 }
 
 .react-toggle-track {
+  display: none;
+}
+
+.react-toggle-thumb  {
   display: none;
 }
 
@@ -252,4 +260,23 @@ main p {
 
 .featureTitle {
 	text-align: center;
+}
+
+.margin-bottom--xl {
+  background-color: #fa998a;
+  padding: 1rem 5rem;
+}
+
+.margin-horiz--sm {
+  color: black;
+}
+
+h2 a {
+   font-size: 75%
+   line-height: 80%;
+}
+
+h2 {
+   font-size: 75%
+   line-height: 80%;
 }
