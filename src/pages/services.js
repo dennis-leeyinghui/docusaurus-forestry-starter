@@ -15,10 +15,10 @@ function Home() {
     <Layout
       title={`Hello from ${siteConfig.title}`}
       description="We help Atlantic Canadian businesses look better online.">
-      <header className={classnames('hero hero--primary', styles.heroBanner)}>
-      </header>
-
       <main>
+		<div class=container4>
+		  <p>Centered!</p>
+		</div>
         <div><h3> QQQQQ </h3></div>
       </main>
     </Layout>
