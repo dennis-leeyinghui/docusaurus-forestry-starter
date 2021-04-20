@@ -37,7 +37,7 @@
 }
 
 .portfolios {
-  display: flex;
+  display: block;
   align-items: center;
   width: 100%;
 }

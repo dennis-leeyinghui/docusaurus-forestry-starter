@@ -27,15 +27,14 @@ function Home() {
 				<p>We offer great deals to help our clients achieve their business goals!</p>
 				<p></p>
 				<p>Our latest promo:</p>
-
-				<p><b><img src="/img/celebrate.svg" width="40px" height="40px" />WOW Bundle<img src="/img/celebrate.svg" width="40px" height="40px" /> Just CA$99/mo! (+tax) </b></p>
+				<p class="promo-price"><b><img src="/img/celebrate.svg" width="40px" height="40px" />WOW Bundle<img src="/img/celebrate.svg" width="40px" height="40px" /> Just CA$99/mo! (+tax) </b></p>
 
 			<div class="tg-wrap">
 				  <table>
 					<tbody>
 					 <tr>
-						<td class="tg-akna">Service Breakdown</td>
-						<td class="tg-3pw4">Count</td>
+						<td class="tg-akna tablehead"><b>Service Breakdown</b></td>
+						<td class="tg-3pw4 tablehead"><b>Count</b></td>
 					 </tr>
 					 <tr>
 						<td class="tg-akna">Weekly Facebook (FB) static posts</td>

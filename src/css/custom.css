@@ -104,6 +104,7 @@ article header {
 
 .portfolios_src-pages- {
   padding: 0;
+  display: none;
 }
 
 .row {
@@ -194,6 +195,7 @@ tr {
 
 table td {
   background-color: #fa998a;
+  color: black;
   border: none;
 }
 
@@ -272,11 +274,19 @@ main p {
 }
 
 h2 a {
-   font-size: 75%;
-   line-height: 80%;
+   font-size: 50%;
+   line-height: 50%;
 }
 
 h2 {
-   font-size: 75%;
-   line-height: 80%;
+   font-size: 50%;
+   line-height: 50%;
+}
+
+.promo-price {
+  text-align: center;
+}
+
+.tablehead {
+  color: #f26e59;
 }
