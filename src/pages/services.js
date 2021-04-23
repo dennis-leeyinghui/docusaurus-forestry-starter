@@ -29,14 +29,23 @@ function Home() {
 
 				<p>
 				<ul>
-				  <li>Social Media Management</li>
-				  <li>Marketing Campaigns</li>
-				  <li>Advertisement Designs</li>
-				  <li>Workflow Simplification</li>
-				  <li>Digital Transformation</li>
-				  <li>Website Creation & Management</li>
-				  <li>Consulting Services</li>
-				  <li>New Business Ideas Creation</li>
+					<li>Online Marketing</li>
+						<ul>
+							<li>Social Media Management</li>
+							<li>Facebook / Instagram / Tikok Analysis</li>
+						</ul>
+					<li>Digital Transformation</li>
+						<ul>
+							<li>E-commerce Setup</li>
+							<li>Remote Work Setup</li>
+							<li>Simplify Business Workflows</li>
+						</ul>
+					<li>Product/Service Localization</li>
+						<ul>
+							<li>Multilingul Translation</li>
+							<li>Branding</li>
+							<li>Market Intelligence</li>
+						</ul>
 				</ul>
 				</p>
 
