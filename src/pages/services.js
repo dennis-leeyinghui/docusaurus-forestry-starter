@@ -29,18 +29,18 @@ function Home() {
 
 				<p>
 				<ul>
-					<li>Online Marketing</li>
+					<li><b>Online Marketing</b></li>
 						<ul>
 							<li>Social Media Management</li>
 							<li>Facebook / Instagram / Tikok Analysis</li>
 						</ul>
-					<li>Digital Transformation</li>
+					<li><b>Digital Transformation</b></li>
 						<ul>
 							<li>E-commerce Setup</li>
 							<li>Remote Work Setup</li>
 							<li>Simplify Business Workflows</li>
 						</ul>
-					<li>Product/Service Localization</li>
+					<li><b>Product/Service Localization</b></li>
 						<ul>
 							<li>Multilingul Translation</li>
 							<li>Branding</li>
