@@ -36,7 +36,7 @@ function Home() {
 						</ul>
 					<li><b>Digital Transformation</b></li>
 						<ul>
-							<li>E-commerce Setup</li>
+							<li>E-commerce Shops Setup</li>
 							<li>Remote Work Setup</li>
 							<li>Simplify Business Workflows</li>
 						</ul>
