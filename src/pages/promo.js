@@ -27,33 +27,32 @@ function Home() {
 				<p>We offer great deals to help our clients achieve their business goals!</p>
 				<p></p>
 				<p>Our latest promo:</p>
-				<p class="promo-price"><b><img src="/img/celebrate.svg" width="40px" height="40px" />WOW Bundle<img src="/img/celebrate.svg" width="40px" height="40px" /> Just CA$99/mo! (+tax) </b></p>
+				<p class="promo-price"><b>
+				  <img src="/img/celebrate.svg" width="40px" height="40px" />WOW Bundle<img src="/img/celebrate.svg" width="40px" height="40px" /> 
+				  <br />Just CA$99/mo! (+tax) 
+				</b></p>
 
 			<div class="tg-wrap">
-				  <table>
+				  <table class="promo-table">
 					<tbody>
 					 <tr>
 						<td class="tg-akna tablehead"><b>Service Breakdown</b></td>
-						<td class="tg-3pw4 tablehead"><b>Count</b></td>
+						<td class="tg-3pw4 tablehead"><b>Monthly Total Count</b></td>
 					 </tr>
 					 <tr>
-						<td class="tg-akna">Weekly Facebook (FB) static posts</td>
-						<td class="tg-3pw4">4</td>
+						<td class="tg-akna">Twice-a-week Facebook (FB) static post</td>
+						<td class="tg-3pw4">8</td>
 					 </tr>
 					 <tr>
-						<td class="tg-akna">Weekly Instagram (IG) static posts</td>
-						<td class="tg-3pw4">4</td>
+						<td class="tg-akna">Twice-a-week Instagram (IG) static posts</td>
+						<td class="tg-3pw4">8</td>
 					 </tr>
 					 <tr>
-						<td class="tg-akna">Weekly Facebook (FB) static posts</td>
-						<td class="tg-3pw4">4</td>
-					 </tr>
-					 <tr>
-						<td class="tg-akna">Instagram (IG) video post</td>
+						<td class="tg-akna">Instagram (IG) video story</td>
 						<td class="tg-3pw4">2</td>
 					 </tr>
 					 <tr>
-						<td class="tg-akna">Facebook (FB) video post</td>
+						<td class="tg-akna">Facebook (FB) video story</td>
 						<td class="tg-3pw4">2</td>
 					 </tr>
 					 <tr>

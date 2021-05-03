@@ -9,11 +9,11 @@ module.exports = {
   themeConfig: {
     navbar: {
       title: '',
+	  hideOnScroll: true,
       logo: {
         alt: 'Site Logo',
         src: 'img/logo.svg',
       },
-	  hideOnScroll: true,
       items: [
         {
           to: 'about-us',
